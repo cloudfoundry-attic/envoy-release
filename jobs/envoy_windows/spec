@@ -1,0 +1,9 @@
+---
+name: envoy_windows
+
+templates: {}
+
+packages:
+- envoy_windows
+
+properties: {}

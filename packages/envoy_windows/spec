@@ -1,0 +1,7 @@
+---
+name: envoy_windows
+
+dependencies: []
+
+files:
+  - envoy_windows/envoy-a6831d8e.zip
