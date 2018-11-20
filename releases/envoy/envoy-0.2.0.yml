@@ -1,0 +1,19 @@
+name: envoy
+version: 0.2.0
+commit_hash: 75a12c2
+uncommitted_changes: false
+jobs:
+- name: envoy_windows
+  version: 73949026a83e4445e4a48899497faebfb4902ec2796d3fdb24fb29ee3b20feb6
+  fingerprint: 73949026a83e4445e4a48899497faebfb4902ec2796d3fdb24fb29ee3b20feb6
+  sha1: sha256:72ef7f353d935ec52932ce7a9d2a401d114f19f3c15fe79d11d33b43208c2175
+packages:
+- name: envoy_windows
+  version: cc0903eb0c0c377d513434e6795ca3f27b5d3d47635ad07dc8be3b56bd158b79
+  fingerprint: cc0903eb0c0c377d513434e6795ca3f27b5d3d47635ad07dc8be3b56bd158b79
+  sha1: sha256:d0c09ba54ff5a42b21ee11d0706de9ddd25a3d8584e7f2699bc2dd0e496ec7dd
+  dependencies: []
+license:
+  version: eefa533b44473426f0d39cb7de4a5de1342863955201ca83ddaefe4a0c96d174
+  fingerprint: eefa533b44473426f0d39cb7de4a5de1342863955201ca83ddaefe4a0c96d174
+  sha1: sha256:26ba29fe0accbd570a601e462985558ef2c28f50b86ab0d8297253a4c052f1be
